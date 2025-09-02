@@ -1,11 +1,11 @@
 # iRoboQuest Instructions
 
-* Goto URL - user.jozuna.com
+* Open Chrome Browser
 
 ## For Kids who remember the School Email and Password
-* Open Chrome Browser 
+* Goto URL - user.jozuna.com
 * Login to your OWIS email account
-* Search for email from "sender email address"
+* Search for email from "support@jozuna.com"
 * Find the following info. in the email: Provide the info. that will be present in the email.
 * Click on the Login link 
 * Enter your school email ID
