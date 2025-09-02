@@ -3,7 +3,7 @@
 * Open Chrome Browser
 
 ## For Kids who remember the School Email and Password
-* Goto URL - user.jozuna.com
+* Goto URL - [user.jozuna.com](https://user.jozuna.com/)
 * Login to your OWIS email account
 * Search for email from "support@jozuna.com"
 * Find the following info. in the email: Provide the info. that will be present in the email.
